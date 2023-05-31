@@ -1,0 +1,9 @@
+I created this file on my local machine and then pushed it to the remote repository(GitHub).
+Clone this repository to your local machine.
+Open the file in Visual Studio Code, create a new file with some unique name and make changes to it.
+Do not delete any of the existing content.
+
+Clone, push and pull from master branch only.
+Keep the commit message short and meaningful.
+Try to do all this in 60 seconds.
+`````````````````````````````````````````````````````````````
